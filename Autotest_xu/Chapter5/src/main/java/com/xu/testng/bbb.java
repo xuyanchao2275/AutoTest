@@ -1,4 +1,4 @@
 package com.xu.testng;
 
-public class aaa {
+public class bbb {
 }
